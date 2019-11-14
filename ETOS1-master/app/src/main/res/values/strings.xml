@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">ETOS</string>
+    <string name="title_activity_translate" translatable="false">translate</string>
+
+
+
+    <string-array name="languages">
+        <item><string name ="English">English</string></item>
+        <item><string name ="Russian">Russian</string></item>
+        <item><string name ="Amharic">Amharic</string></item>
+    </string-array>
+
+
+    <string name="eng">English</string>
+    <string name="rus">Russian</string>
+    <string name="amh">Amharic</string>
+    <string name="CVA">CVA</string>
+    <string name="MI">MI</string>
+    <string name="Please_smile">Please smile</string>
+    <string name="Please_raise_your_hands_forward_and_squeeze">Please raise your hands forward and squeeze</string>
+    <string name="Count_to_10">Count to 10</string>
+    <string name="Does_the_patient_speak_properly">Does the patient speak properly</string>
+    <string name="Please_show_me_where_it_hurts">Please show me where it hurts</string>
+    <string name="What_type_of_pain">What type of pain?</string>
+    <string name="When_did_the_pain_start">When did the pain start</string>
+    <string name="Dose_the_pain_change_in_movement_or_while_breathing">Does the pain change in movement or while breathing</string>
+    <string name="start">START</string>
+
+    <string name="text">text</string>
+    <string name="RETURN">RETURN</string>
+
+
+</resources>

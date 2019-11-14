@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Count_to_10">תספור עד 10</string>
+    <string name="CVA">שבץ</string>
+    <string name="Does_the_patient_speak_properly">האם המטופל מדבר באופן תקין?</string>
+    <string name="Dose_the_pain_change_in_movement_or_while_breathing">האם הכאב משתנה בנשימה או במגע?</string>
+    <string name="MI">התקף לב</string>
+    <string name="Please_raise_your_hands_forward_and_squeeze">בבקשה הרם את יידיך לפנים ולחץ</string>
+    <string name="Please_show_me_where_it_hurts">בבקשה תראה לי איפה כואב לך</string>
+    <string name="Please_smile">בבקשה לחייך</string>
+    <string name="What_type_of_pain">מהו סוג הכאב?</string>
+    <string name="When_did_the_pain_start">מתי התחיל הכאב?</string>
+    <string name="start">התחל</string>
+    <string name="text">אפליקצית ETOS</string>
+    <string name="eng">אנגלית</string>
+    <string name="rus">רוסית</string>
+    <string name="amh">אמהרית</string>
+    <string name="RETURN">חזרה</string>
+
+    <string-array name="languages">
+        <item><string name ="English">אנגלית</string></item>
+        <item><string name ="Russian">רוסית</string></item>
+        <item><string name ="Amharic">אמהרית</string></item>
+    </string-array>
+
+</resources>
