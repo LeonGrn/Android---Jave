@@ -1,0 +1,6 @@
+App that can help diagnose patients that doesnt speak hebrew during first aid.
+
+The app combined several things: 
+1. replace activities and pass information with Intent.
+2. work with audio.
+3. dynamic design.
